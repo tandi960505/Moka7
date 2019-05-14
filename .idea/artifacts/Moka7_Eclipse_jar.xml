@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Moka7-Eclipse:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Moka7_Eclipse_jar</output-path>
+    <root id="archive" name="Moka7-Eclipse.jar">
+      <element id="module-output" name="Moka7" />
+    </root>
+  </artifact>
+</component>
